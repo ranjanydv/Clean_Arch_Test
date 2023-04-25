@@ -1,0 +1,7 @@
+﻿.vs/
+.idea/
+/obj/
+/bin/
+obj/
+bin/
+build/

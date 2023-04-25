@@ -1,0 +1,7 @@
+﻿POST https://localhost:7169/api/v1/auth/login
+Content-Type: application/json
+
+{
+  "email":"ag@fd.com",
+  "password":"egda"
+}
